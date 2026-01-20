@@ -1,0 +1,15 @@
+Galaxy Public Blockchain (GPB) Whitepaper Summary
+
+Galaxy Public Blockchain (GPB) is a distributed infrastructure designed to support cross-chain commercial applications. Initiated by the Galaxy Fund Alliance and developed by a global team of engineers and researchers, GPB provides a foundational platform for token issuance, decentralized finance, and enterprise blockchain adoption.
+
+Key Features:
+- Consensus: GPB adopts a Delegated Proof of Stake (DPoS) mechanism with 19 genesis nodes and 199 backup nodes, ensuring efficiency, decentralization, and environmental sustainability.
+- Governance: Transparent distributed governance through community voting, node replacement, and democratic oversight.
+- Technology: GPB integrates GVM (Galaxy Virtual Machine) for multi-language smart contract development, supports cross-chain interoperability with ETH, BSC, TRON, COSMOS, and Polkadot, and achieves high throughput (TPS > 13,000).
+- Applications: GPB enables decentralized asset trading, privacy-preserving computation, DeFi services, big data exchange, and atomic cross-chain transactions.
+- Architecture: A layered system including consensus, runtime environment, cross-chain bridges, off-chain smart contracts, and data collaboration modules.
+- Tokenomics: Total supply of 21 million GPB, with 10% initial distribution and 90% generated via staking and mining rewards. Voting and staking mechanisms reduce circulating supply and enhance network security.
+- Use Cases: GPB supports product traceability, supply chain optimization, decentralized finance, enterprise blockchain transformation, and digital credit systems.
+
+Risk Disclaimer:
+The whitepaper does not constitute investment advice or a securities offering. Participation involves risks related to non-regulated markets, third-party involvement, and evolving blockchain technologies. Readers are advised to consult professional advisors before engaging with GPB.
